@@ -24,7 +24,7 @@
       "atom"
     ]
   },
-  "repository": "https://github.com/atom/archive-view",
+  "repository": "https://github.com/coltonsr77/archive-view",
   "license": "MIT",
   "engines": {
     "atom": "*"
